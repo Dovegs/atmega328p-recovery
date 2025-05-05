@@ -16,6 +16,16 @@ This project documents the recovery of an ATmega328P microcontroller on an Ardui
 * Optiboot bootloader.
 * avrdude and MiniCore installed.
 
+## 🧭 Pinouts
+
+Before wiring, please refer to the pinouts below to identify the correct pins:
+
+### ATmega328P Pinout
+![ATmega328P Pinout](images/Atmega328p.jpg)
+
+### Arduino Nano Pinout
+![Arduino Nano Pinout](images/Arduino_nano.PNG)
+
 ## 🔄 Wiring Overview:
 
 **Clock generator (Nano)**:
